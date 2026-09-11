@@ -1,0 +1,41 @@
+commit 6248f3ccb8567900345575968e77dccd025b8262
+Author: tony shin <ts2557@rit.edu>
+Date:   Fri Sep 11 17:59:09 2026 -0400
+
+    Fix defect 4: fix reversed loop to start from n-1
+
+commit a852f28011a3404ede10dbae2117a30e8cfb4c23
+Author: tony shin <ts2557@rit.edu>
+Date:   Fri Sep 11 17:41:52 2026 -0400
+
+    Fix defect 3: add median calculation when count is even
+
+commit fce13fcb6b252945ecae0d16829fe713fdb46701
+Author: tony shin <ts2557@rit.edu>
+Date:   Fri Sep 11 17:34:44 2026 -0400
+
+    create series with negative values
+
+commit 42c189bc3c4a69697bd893a4f37bcba322d6988d
+Author: tony shin <ts2557@rit.edu>
+Date:   Fri Sep 11 17:33:16 2026 -0400
+
+    Fix defect 2: start with m as the first value in the series instead of 0
+
+commit 126751ee8a05335640d2ad69e0fcb61b5ade05e2
+Author: tony shin <ts2557@rit.edu>
+Date:   Fri Sep 11 17:29:24 2026 -0400
+
+    Fix defect 1: set max capacity to 1000 and refuse to write when the array is full
+
+commit c31d28c757d386676246e63d07b473189c4bf6d0
+Author: tony shin <ts2557@rit.edu>
+Date:   Fri Sep 11 16:55:49 2026 -0400
+
+    Initial commit: supplied buggy analyze program
+
+commit 763c521a0b82cae62ce567ca210a057b3654fd3d
+Author: ts2557 <ts2557@g.rit.edu>
+Date:   Fri Sep 11 16:53:51 2026 -0400
+
+    Initial commit
