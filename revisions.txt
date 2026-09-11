@@ -1,3 +1,15 @@
+commit c295761a4a6136b65bc1e7505fec30c0b11a9139
+Author: tony shin <ts2557@rit.edu>
+Date:   Fri Sep 11 18:08:29 2026 -0400
+
+    Fix: invalid variable name
+
+commit 99b1dacb32baf77887bf5e0efd941f4ddec85484
+Author: tony shin <ts2557@rit.edu>
+Date:   Fri Sep 11 17:59:53 2026 -0400
+
+    Git: add git log
+
 commit 6248f3ccb8567900345575968e77dccd025b8262
 Author: tony shin <ts2557@rit.edu>
 Date:   Fri Sep 11 17:59:09 2026 -0400

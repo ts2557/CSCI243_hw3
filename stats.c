@@ -4,6 +4,7 @@
  *        STARTER for Homework 3: contains bugs to find with gdb.
  *
  * @author Dr. Abeer Ahmad <abavcs@rit.edu>
+ * @author Tony Shin <ts2557@rit.edu>
  * @course CSCI-243 Homework 3 (Debugging with gdb), supplied starter
  */
 #include "stats.h"

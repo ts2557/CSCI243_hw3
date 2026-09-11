@@ -5,6 +5,7 @@
  *        gdb. The assignment guarantees at most 1000 values.
  *
  * @author Dr. Abeer Ahmad <abavcs@rit.edu>
+ * @author Tony Shin <ts2557@rit.edu>
  * @course CSCI-243 Homework 3 (Debugging with gdb), supplied starter
  */
 #ifndef SERIES_H

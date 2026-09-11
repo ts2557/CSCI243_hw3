@@ -11,6 +11,7 @@
  * cases, and N &le; 0 must print only "count: 0".
  *
  * @author Dr. Abeer Ahmad <abavcs@rit.edu>
+ * @author Tony Shin <ts2557@rit.edu>
  * @course CSCI-243 Homework 3 (Debugging with gdb), supplied starter
  */
 #include <stdio.h>
