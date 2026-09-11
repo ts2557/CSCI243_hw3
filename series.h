@@ -10,7 +10,7 @@
 #ifndef SERIES_H
 #define SERIES_H
 
-#define SERIES_CAP 8   /* the assignment guarantees N <= 1000 values */
+#define SERIES_CAP 1000   /* the assignment guarantees N <= 1000 values */
 
 /** A sequence of up to SERIES_CAP integers, in insertion order. */
 typedef struct {
