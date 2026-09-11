@@ -44,6 +44,9 @@ double stats_median(const Series *s) {
     int n = series_size(s);
     int sorted[SERIES_CAP];
     series_sorted_copy(s, sorted);
+    if (n%2 == 0) {
+	return (sorted[n/2 - 1] + sorted[n/2]) / 2.0;
+    }
     return sorted[n / 2];
 }
 
