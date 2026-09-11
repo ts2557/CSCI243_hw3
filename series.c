@@ -13,7 +13,7 @@ void series_clear(Series *s) {
 }
 
 int series_append(Series *s, int value) {
-    if (s->count >= SERIES_MAX) {
+    if (s->count >= SERIES_CAP) {
 	return 0;
     }
     s->data[s->count] = value;
