@@ -9,7 +9,7 @@
 #include "stats.h"
 
 int stats_min(const Series *s) {
-    int m = 0;
+    int m = series_at(s, 0);
     for (int i = 0; i < series_size(s); i++) {
         if (series_at(s, i) < m) {
             m = series_at(s, i);
@@ -19,7 +19,7 @@ int stats_min(const Series *s) {
 }
 
 int stats_max(const Series *s) {
-    int m = 0;
+    int m = series_at(s, 0);
     for (int i = 0; i < series_size(s); i++) {
         if (series_at(s, i) > m) {
             m = series_at(s, i);
